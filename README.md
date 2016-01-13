@@ -1,5 +1,5 @@
 # ATApp
-Ashli and Kyle's awesome Appalachian Trail App!
+Kat and Mac's awesome Appalachian Trail App!
 
 Ideas for the app:
 Mileage Calculator
